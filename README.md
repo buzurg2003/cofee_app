@@ -1,6 +1,6 @@
 # coffee_app
 
-A new Flutter project.
+A СoffeeApp Flutter project.
 
 ## Getting Started
 
